@@ -1,0 +1,8 @@
+Projects I will add to GitHub:
+
+  1. California Oil Data
+  2. G1, W2, GAU Scraping
+  3. GIS Lease ID Scanner
+  4. Surface Casing Estimator
+
+
